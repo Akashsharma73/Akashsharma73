@@ -1,7 +1,7 @@
 ![logo](https://github.com/Akashsharma73/Akashsharma73/blob/main/avento.gif)
 <h1 align="center">Hi 👋, I'm Akash kumar</h1>
 <h3 align="center">MERN stack developer from India</h3>
-<img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif"  align="right" width="400px"  alt="">
+<img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif"  style="margin-left: 20%;"  width="400px"  alt="">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashsharma73&label=Profile%20views&color=0e75b6&style=flat" alt="akashsharma73" /> </p>
