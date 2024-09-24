@@ -1,3 +1,4 @@
+![logo](https://github.com/Akashsharma73/Akashsharma73/blob/main/avento.gif)
 <h1 align="center">Hi 👋, I'm Akash kumar</h1>
 <h3 align="center">MERN stack developer from India</h3>
 
